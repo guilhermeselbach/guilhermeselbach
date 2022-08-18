@@ -14,6 +14,10 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" rel="nofollow">
     <img align="center" alt="Guils-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
+  
+  <a href="https://dotnet.microsoft.com/en-us/" rel="nofollow">
+    <img align="center" alt="Guils-DotNet" height="50" width="60" src="https://user-images.githubusercontent.com/42860908/106164530-120e5680-61b0-11eb-954c-969c7031ffd4.png">
+  </a>
 </div>
 
 ##
