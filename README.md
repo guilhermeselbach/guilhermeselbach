@@ -7,10 +7,6 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
 
 ### :book: Currently Studying:
 <div align="center">
-  <a href="https://www.mongodb.com/" rel="nofollow">
-    <img align="center" alt="Guils-Ts" height="50" width="60" src="https://camo.githubusercontent.com/d69527496a61f94e89fbb0f4022b15fa816f63d9b773c1ae2b6f83fb63e69d2f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667">
-  </a>
-  
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" rel="nofollow">
     <img align="center" alt="Guils-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
@@ -104,6 +100,9 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
   </a>
   <a href="" rel="nofollow">
       <img align="center" alt="Guils-Mac" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg">
+  </a>
+   <a href="https://www.mongodb.com/" rel="nofollow">
+    <img align="center" alt="Guils-Ts" height="50" width="60" src="https://camo.githubusercontent.com/d69527496a61f94e89fbb0f4022b15fa816f63d9b773c1ae2b6f83fb63e69d2f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667">
   </a>
 </div>
 
