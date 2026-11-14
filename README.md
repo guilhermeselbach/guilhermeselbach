@@ -1,4 +1,4 @@
-<img alt="Hello" height="25" width="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">     Hello and Welcome to my GitHub!
+👋 Hello and Welcome to my GitHub!
 
 My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 years old, from south of Brazil, live at Praia do Rosa localizate at Imbituba-SC to be more precise, and started study Web Development at Trybe almost one year ago. I'm allready Front-end Developer and i'm specializing in Back-End development to become Full Stack. 
 
@@ -8,7 +8,7 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
 ### :book: Currently Studying:
 <div align="center">
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" rel="nofollow">
-    <img align="center" alt="Guils-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Guils-CSharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
   
   <a href="https://dotnet.microsoft.com/en-us/" rel="nofollow">
@@ -21,7 +21,7 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
 ### :notebook: Skills:
 <div style="display: inline_block"><br>
   <a href="https://git-scm.com/" rel="nofollow">
-    <img align="center" alt="Guils-Git" height="50" width="60" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
+    <img align="center" alt="Guils-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/git/git-original.svg">
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow">
@@ -36,25 +36,25 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
     <img align="center" alt="Guils-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://jestjs.io/pt-BR/" rel="nofollow">
-    <img align="center" alt="Guils-Jest" height="50" width="60" src="https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667">
+    <img align="center" alt="Guils-Jest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/jest/jest-plain.svg">
   </a>
   <a href="https://pt-br.reactjs.org/" rel="nofollow">
     <img align="center" alt="Guils-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
   <a href="https://testing-library.com/docs/react-testing-library/intro/" rel="nofollow">
-    <img align="center" alt="Guils-React-Testing-Library" height="50" width="60" src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67">
+    <img align="center" alt="Guils-React-Testing-Library" height="50" width="60" src="https://raw.githubusercontent.com/testing-library/testing-library-docs/7c49d046b100e657c64bae78270a5813c1c02eb6/static/img/octopus-128x128.png">
   </a>
   <a href="https://redux.js.org/" rel="nofollow">
-    <img align="center" alt="Guils-Redux" height="50" width="60" src="https://camo.githubusercontent.com/2b6b50702c658cdfcf440cef1eb88c7e0e5a16ce0eb6ab8bc933da7697c12213/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667">
+    <img align="center" alt="Guils-Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/redux/redux-original.svg">
   </a>
   <a href="https://www.docker.com/" rel="nofollow">
-    <img align="center" alt="Guils-Docker" height="50" width="60" src="https://camo.githubusercontent.com/cbd55750b53c01dc18830d377c7364b01077e8a675a79d454a3f1ea549efe129/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667">
+    <img align="center" alt="Guils-Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/docker/docker-original.svg">
   </a>
   <a href="https://www.mysql.com/" rel="nofollow">
-    <img align="center" alt="Guils-MYSQL" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mysql.png">
+    <img align="center" alt="Guils-MYSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/mysql/mysql-original.svg">
   </a>
   <a href="https://nodejs.org/en/docs/" rel="nofollow">
-    <img align="center" alt="Guils-NodeJs" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/nodejs.png">
+    <img align="center" alt="Guils-NodeJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/nodejs/nodejs-original.svg">
   </a>
   <a href="https://www.heroku.com/home/" rel="nofollow">
     <img align="center" alt="Guils-Heroku" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/heroku_logo_icon_168126.png">
@@ -63,13 +63,13 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
       <img align="center" alt="Guils-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
   <a href="https://mochajs.org/" rel="nofollow">
-      <img align="center" alt="Guils-Mocha" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mocha.png">
+      <img align="center" alt="Guils-Mocha" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/mocha/mocha-original.svg">
   </a>
   <a href="https://www.chaijs.com/" rel="nofollow">
-      <img align="center" alt="Guils-Chai" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png">
+      <img align="center" alt="Guils-Chai" height="50" width="60" src="https://raw.githubusercontent.com/chaijs/chaijs.github.io/add71151c49ea55cc3b4a6419770f22ac2aa4a6b/img/chai-logo.png">
   </a>
   <a href="https://sinonjs.org/" rel="nofollow">
-      <img align="center" alt="Guils-Sinon" height="50" width="60" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png">
+      <img align="center" alt="Guils-Sinon" height="50" width="60" src="https://raw.githubusercontent.com/sinonjs/sinon/530d4622ae149c76756a4d43e26b86bd17c80e2f/docs/assets/images/logo.png">
   </a>
   <a href="https://eslint.org/" rel="nofollow">
       <img align="center" alt="Guils-Eslint" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg">
@@ -102,7 +102,7 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
       <img align="center" alt="Guils-Mac" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg">
   </a>
    <a href="https://www.mongodb.com/" rel="nofollow">
-    <img align="center" alt="Guils-Ts" height="50" width="60" src="https://camo.githubusercontent.com/d69527496a61f94e89fbb0f4022b15fa816f63d9b773c1ae2b6f83fb63e69d2f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667">
+    <img align="center" alt="Guils-MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/mongodb/mongodb-original-wordmark.svg">
   </a>
 </div>
 
@@ -110,9 +110,9 @@ My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 27 ye
 
 ### 🌟 Github Stats
 <div align="center">
-  <a href="https://github.com/guilhermeselbach">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermeselbach&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeselbach&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/guilhermeselbach?tab=overview">Activity and contributions</a>
+  &middot;
+  <a href="https://github.com/guilhermeselbach?tab=repositories">Repositories and languages</a>
 </div>
   
   ##
