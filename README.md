@@ -1,6 +1,6 @@
 👋 Hello and Welcome to my GitHub!
 
-My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 31 years old, from south of Brazil, live at Praia do Rosa localizate at Imbituba-SC to be more precise, and started study Web Development at Trybe almost one year ago. I'm allready Front-end Developer and i'm specializing in Back-End development to become Full Stack. 
+My name is Guilherme Diefenthäler Selbach, but you can call me Guils. I'm 31 years old, from south of Brazil, live at Praia do Rosa localizate at Imbituba-SC to be more precise, and started study Web Development at Trybe almost one year ago. I'm allready Front-end Developer and i'm specializing in Back-End development to become Full Stack.
 
 
 ##
